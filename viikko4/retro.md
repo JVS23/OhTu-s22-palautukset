@@ -1,0 +1,5 @@
+Kaksi hyvää retrospektiivitekniikkaa joita käsittelemme tällä kurssilla ovat
+"Glad, Sad, Mad" sekä "Start, Stop, Continue, More of, Less of Wheel". Näistä ensimmäinen on 
+melko suoraviivainen menettely, jossa keskitytään tiiminä laittamaan yhteiselle valkotaululle
+nootteja siitä, mitkä asiat ovat kehityksessä menneet hyvin, huonosti tai hyvin huonosti. Tämän 
+jälkeen kaikkien annettua palautteensa, keskustellaan näistä kohdista ryhmässä, usein Scrum Masterin johdolla. Jälkimmäisessä retrospektiivitekniikassa on tarkoituksena piirtää eräänlainen ympyrädiagrammi, johon merkitään retrospektiivin nimen mukaisesti kehityksen aikana mieleen tulleita ajatuksia menettelyistä, joita voisi aloittaa, lopettaa, jatkaa, lisätä tai vähentää. Tämän on tarkoitus olla melko lyhyt retrospektiivi, jonka tulisi pienissä ryhmissä kestää noin 10 minuutin verran, mikä on todella vähän verrattuna moneen muuhun retrospektiiviin, kuten "Glad, Sad, Mad":iin, jossa vastaavasti aikaodotus voi venyä jopa 60 minuuttiin asti.
