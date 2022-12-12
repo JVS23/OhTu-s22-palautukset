@@ -37,3 +37,10 @@ class HasFewerThan:
         player_value = getattr(player, self._attr)
 
         return player_value < self._value
+
+class All:
+    def __init__(self):
+        pass
+
+    def test(self, data):
+        return True
