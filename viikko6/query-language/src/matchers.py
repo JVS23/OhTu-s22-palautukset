@@ -44,3 +44,11 @@ class All:
 
     def test(self, data):
         return True
+
+class Not:
+    def __init__(self, arg):
+        self._arg = arg
+
+    def test(self, player):
+        return not self._arg.test(player)
+
