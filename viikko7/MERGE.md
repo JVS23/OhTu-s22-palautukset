@@ -1,0 +1,1 @@
+Mergeämäni pull request: https://github.com/Siniset/Ohtu_2022/pull/49
